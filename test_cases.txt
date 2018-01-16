@@ -1,0 +1,19 @@
+sample input:
+
+Sample Text: entries are due by January 4th, 2017 at 8:00pm
+Expected: January 4th, 2017 8:00pm
+
+Sample Text: created 01/15/2005 by ACME Inc. and associates.
+Expected: 01/15/2005
+
+Sample Text: You have a new BESCOM Bangalore bill - account xxxxx2345 for Rs 905.00 due by 29-Dec-2017.
+Expected: 29-Dec-2017
+
+sample Text: She was born 9 november 1996.
+Expexted: 9 november 1996.
+
+sample Text: 19/nov/1996, a memorable day
+Expexted: 19/nov/1996
+
+sample Text: 19.11.1996, 18:59 , A wonderful sunset.
+Expexted: 19.11.1996 18:59
